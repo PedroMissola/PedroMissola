@@ -57,7 +57,7 @@ Church management system with event scheduling, team rotations, notifications, a
 
 ---
 
-### TDAH Organizer – Focusio  
+### Focusio  
 [Repository](https://github.com/MissolaPedro/TDAH)
 
 Task organizer for people with ADHD. Final academic project focused on routine planning and productivity.
@@ -66,7 +66,7 @@ Task organizer for people with ADHD. Final academic project focused on routine p
 
 ---
 
-### Video Converter API  
+### Video Converter
 [Repository](https://github.com/PedroMissola/Video-Converter-API)
 
 API for converting videos into multiple formats using FFmpeg. Academic project with React frontend and Node.js backend.
@@ -75,7 +75,7 @@ API for converting videos into multiple formats using FFmpeg. Academic project w
 
 ---
 
-### PassGenGuard  
+### Safe Generator
 [Repository](https://github.com/PedroMissola/PassGenGuard)
 
 Password generator based on formulas and custom rules.
