@@ -1,28 +1,28 @@
 # Pedro Missola
 
-Desenvolvedor Front-End com foco na construção de interfaces modernas, acessíveis e performáticas. Com formação técnica em Informática pelo IFSP, tenho experiência em projetos full-stack e grande interesse por tecnologia com impacto social. Sou apaixonado por transformar ideias em soluções web que gerem valor para pessoas e organizações.
+Front-End Developer focused on building modern, accessible, and high-performance user interfaces. With a technical degree in IT from IFSP, I have hands-on experience in full-stack projects and a strong interest in technology that creates social impact. I am passionate about turning ideas into meaningful and functional web solutions.
 
 [![LinkedIn](https://img.shields.io/badge/-Pedro%20Missola-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromissola/)
 [![Gmail](https://img.shields.io/badge/-missolapedro@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:missolapedro@gmail.com)
-[![Portfólio](https://img.shields.io/badge/-Figma%20Portfolio-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/@petter_)
+[![Portfolio](https://img.shields.io/badge/-Figma%20Portfolio-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/@petter_)
 [![Website](https://img.shields.io/badge/-Churchment%20App-FF7043?style=flat&logo=vercel&logoColor=white)](https://churchment.vercel.app/)
 
 ---
 
-## Sobre Mim
+## About Me
 
-- Técnico em Informática — IFSP
-- Desenvolvedor com experiência em React.js, Next.js, Firebase e TailwindCSS
-- Inglês e Espanhol: Intermediário (leitura técnica e comunicação básica)
-- Estudando: TypeScript, Nest.js, testes com Jest e integração CI/CD
-- Foco em acessibilidade (WCAG), boas práticas de SEO e performance web
-- Projetos com propósito e impacto social são minha motivação principal
+- Technical Degree in IT — IFSP
+- Developer experienced with React.js, Next.js, Firebase, and TailwindCSS
+- Intermediate English and Spanish (technical reading and basic communication)
+- Currently learning TypeScript, Nest.js, testing with Jest, and CI/CD integrations
+- Focused on accessibility (WCAG), SEO best practices, and web performance
+- Motivated by projects with purpose and social impact
 
 ---
 
-## Tecnologias e Ferramentas
+## Technologies and Tools
 
-### Linguagens e Frameworks
+### Languages and Frameworks
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -35,7 +35,7 @@ Desenvolvedor Front-End com foco na construção de interfaces modernas, acessí
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
 
-### Outros Conhecimentos
+### Other Skills
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -46,45 +46,45 @@ Desenvolvedor Front-End com foco na construção de interfaces modernas, acessí
 
 ---
 
-## Principais Projetos
+## Featured Projects
 
 ### Churchment  
-[Repositório](https://github.com/PedroMissola/churchment) • [Deploy](https://churchment.vercel.app)
+[Repository](https://github.com/PedroMissola/churchment) • [Live App](https://churchment.vercel.app)
 
-Sistema de gestão e organização para igrejas, com agendamento de eventos, escalas ministeriais, notificações e relatórios. Projeto pessoal em produção.
+Church management system with event scheduling, team rotations, notifications, and reports. Personal project in production.
 
-- Tecnologias: Next.js, TypeScript, TailwindCSS, Firebase
+- Technologies: Next.js, TypeScript, TailwindCSS, Firebase
 
 ---
 
 ### TDAH Organizer – Focusio  
-[Repositório](https://github.com/MissolaPedro/TDAH)
+[Repository](https://github.com/MissolaPedro/TDAH)
 
-Organizador de tarefas para pessoas com TDAH. Projeto de Conclusão de Curso com foco em produtividade e estruturação de rotinas.
+Task organizer for people with ADHD. Final academic project focused on routine planning and productivity.
 
-- Tecnologias: JavaScript, Node.js, Express, TailwindCSS, Firebase
+- Technologies: JavaScript, Node.js, Express, TailwindCSS, Firebase
 
 ---
 
 ### Video Converter API  
-[Repositório](https://github.com/PedroMissola/Video-Converter-API)
+[Repository](https://github.com/PedroMissola/Video-Converter-API)
 
-API para conversão de vídeos em múltiplos formatos usando FFmpeg. Projeto acadêmico com integração React + Backend Node.js.
+API for converting videos into multiple formats using FFmpeg. Academic project with React frontend and Node.js backend.
 
-- Tecnologias: Express.js, FFmpeg, React, Material Tailwind
+- Technologies: Express.js, FFmpeg, React, Material Tailwind
 
 ---
 
 ### PassGenGuard  
-[Repositório](https://github.com/PedroMissola/PassGenGuard)
+[Repository](https://github.com/PedroMissola/PassGenGuard)
 
-Gerador de senhas seguras baseado em fórmulas e critérios personalizáveis.
+Password generator based on formulas and custom rules.
 
-- Tecnologias: JavaScript, TailwindCSS, HTML5
+- Technologies: JavaScript, TailwindCSS, HTML5
 
 ---
 
-## Estatísticas do GitHub
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MissolaPedro&show_icons=true&theme=default" />
@@ -93,12 +93,12 @@ Gerador de senhas seguras baseado em fórmulas e critérios personalizáveis.
 
 ---
 
-## Contato
+## Contact
 
-- E-mail: [missolapedro@gmail.com](mailto:missolapedro@gmail.com)
+- Email: [missolapedro@gmail.com](mailto:missolapedro@gmail.com)
 - LinkedIn: [linkedin.com/in/pedromissola](https://www.linkedin.com/in/pedromissola/)
 - Figma: [figma.com/@petter_](https://www.figma.com/@petter_)
 
 ---
 
-Em constante aprendizado e sempre pronto para novos desafios.
+Always learning and ready for new challenges.
