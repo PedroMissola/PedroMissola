@@ -1,47 +1,104 @@
 # Pedro Missola
 
-Desenvolvedor dedicado à criação de soluções tecnológicas eficientes e funcionais. Com experiência em desenvolvimento web e design de interfaces, estou sempre buscando novas formas de simplificar processos e oferecer experiências impactantes para usuários e empresas.
+Desenvolvedor Front-End com foco na construção de interfaces modernas, acessíveis e performáticas. Com formação técnica em Informática pelo IFSP, tenho experiência em projetos full-stack e grande interesse por tecnologia com impacto social. Sou apaixonado por transformar ideias em soluções web que gerem valor para pessoas e organizações.
 
-## Sobre
+[![LinkedIn](https://img.shields.io/badge/-Pedro%20Missola-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromissola/)
+[![Gmail](https://img.shields.io/badge/-missolapedro@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:missolapedro@gmail.com)
+[![Portfólio](https://img.shields.io/badge/-Figma%20Portfolio-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/@petter_)
+[![Website](https://img.shields.io/badge/-Churchment%20App-FF7043?style=flat&logo=vercel&logoColor=white)](https://churchment.vercel.app/)
 
-* **Educação:** Técnico em Informática pelo Instituto Federal de São Paulo ( **IFSP** ).
-* **Habilidades:** Desenvolvimento web, design gráfico, iluminação cênica, manutenção de computadores e redes.
-* **Interesses:** Projetos inovadores em TI, interfaces de usuário e ferramentas de automação.
+---
 
-## Habilidades
+## Sobre Mim
 
-**Linguagens e Frameworks**
+- Técnico em Informática — IFSP
+- Desenvolvedor com experiência em React.js, Next.js, Firebase e TailwindCSS
+- Inglês e Espanhol: Intermediário (leitura técnica e comunicação básica)
+- Estudando: TypeScript, Nest.js, testes com Jest e integração CI/CD
+- Foco em acessibilidade (WCAG), boas práticas de SEO e performance web
+- Projetos com propósito e impacto social são minha motivação principal
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+---
 
-**Ferramentas**
+## Tecnologias e Ferramentas
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+### Linguagens e Frameworks
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+
+### Outros Conhecimentos
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+
+---
 
 ## Principais Projetos
 
-### [Gestor de Projetos](https://github.com/MissolaPedro/gestor-de-projetos)
+### Churchment  
+[Repositório](https://github.com/PedroMissola/churchment) • [Deploy](https://churchment.vercel.app)
 
-Sistema que permite gerenciar textos, imagens, contatos e outros conteúdos de sites.
+Sistema de gestão e organização para igrejas, com agendamento de eventos, escalas ministeriais, notificações e relatórios. Projeto pessoal em produção.
 
-### [Volunteer Church](https://github.com/MissolaPedro/volunteer-church)
+- Tecnologias: Next.js, TypeScript, TailwindCSS, Firebase
 
-Ferramenta para líderes de igrejas organizarem voluntários e eventos com integração a agendas online.
+---
 
-### [Gerador de Senhas](https://github.com/MissolaPedro/PasswordGeneration)
+### TDAH Organizer – Focusio  
+[Repositório](https://github.com/MissolaPedro/TDAH)
 
-Plataforma para criar senhas seguras de forma rápida e conveniente, garantindo a proteção de suas contas e dados contra ameaças cibernéticas
+Organizador de tarefas para pessoas com TDAH. Projeto de Conclusão de Curso com foco em produtividade e estruturação de rotinas.
 
-### [Organizador para TDAH](https://github.com/MissolaPedro/TDAH)
+- Tecnologias: JavaScript, Node.js, Express, TailwindCSS, Firebase
 
-Site acadêmico focado em ajudar pessoas com TDAH a estruturarem rotinas de estudo.
+---
+
+### Video Converter API  
+[Repositório](https://github.com/PedroMissola/Video-Converter-API)
+
+API para conversão de vídeos em múltiplos formatos usando FFmpeg. Projeto acadêmico com integração React + Backend Node.js.
+
+- Tecnologias: Express.js, FFmpeg, React, Material Tailwind
+
+---
+
+### PassGenGuard  
+[Repositório](https://github.com/PedroMissola/PassGenGuard)
+
+Gerador de senhas seguras baseado em fórmulas e critérios personalizáveis.
+
+- Tecnologias: JavaScript, TailwindCSS, HTML5
+
+---
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MissolaPedro&show_icons=true&theme=white) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MissolaPedro&hide_progress=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MissolaPedro&show_icons=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissolaPedro&layout=compact&hide_progress=true&theme=default" />
+</div>
+
+---
 
 ## Contato
 
-* **LinkedIn:** [Pedro Missola](https://www.linkedin.com/in/pedro-missola/)
-* **E-mail:** [missolapedro@gmail.com](mailto:missolapedro@gmail.com)
+- E-mail: [missolapedro@gmail.com](mailto:missolapedro@gmail.com)
+- LinkedIn: [linkedin.com/in/pedromissola](https://www.linkedin.com/in/pedromissola/)
+- Figma: [figma.com/@petter_](https://www.figma.com/@petter_)
+
+---
+
+Em constante aprendizado e sempre pronto para novos desafios.
