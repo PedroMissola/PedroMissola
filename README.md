@@ -1,34 +1,41 @@
 <table width="100%">
   <tr>
-    <td width="65%" valign="top">
+    <td width="50%" valign="top">
       <h1>Hello, I'm Pedro Missola</h1>
-      <p>Front-End Developer focused on building modern, accessible, and high-performance user interfaces. With a technical background in IT from <strong>IFSP</strong>, I have a passion for transforming ideas into functional and impactful web solutions.</p>
-          <details>
+      <p>A technology professional transitioning to a <strong>Project Manager</strong> role, currently studying <strong>Information Technology Management at Fatec</strong>. With a strong foundation in Front-End Development (IT - <strong>IFSP</strong>), I am passionate about bridging the gap between technical execution and strategic project delivery.</p>
+  <details>
         <summary>More about me...</summary>
         <br>
         <ul>
-          <li>Currently learning: <strong>TypeScript, Nest.js, Jest, and CI/CD</strong>.</li>
-          <li>Main focus: Accessibility (WCAG), SEO, and Web Performance.</li>
-          <li>Intermediate English and Spanish (technical reading and communication).</li>
+          <li>Transitioning to a <strong>Project Manager</strong> role.</li>
+          <li>Studying <strong>Information Technology Management</strong> at Fatec.</li>
+          <li>Main focus: Project delivery, team leadership, and technical quality.</li>
+          <li>Intermediate English and Spanish.</li>
         </ul>
       </details>
-            <details>
+    <details>
         <summary>Ler em Português</summary>
         <br>
         <h1>Olá, eu sou o Pedro Missola</h1>
-        <p>Desenvolvedor Front-End focado em construir interfaces modernas, acessíveis e de alta performance. Com formação técnica em TI pelo <strong>IFSP</strong>, tenho paixão por transformar ideias em soluções web funcionais e que geram impacto social.</p>
+        <p>Profissional de tecnologia em transição para o cargo de <strong>Gerente de Projetos</strong>, atualmente cursando <strong>Gestão da Tecnologia da Informação na Fatec</strong>. Com uma base sólida em Desenvolvimento Front-End (Técnico em Informática - <strong>IFSP</strong>), sou apaixonado por conectar a execução técnica com a entrega estratégica de projetos.</p>
         <ul>
-          <li>Atualmente aprendendo: <strong>TypeScript, Nest.js, Jest, e CI/CD</strong>.</li>
-          <li>Foco principal: Acessibilidade (WCAG), SEO e Performance Web.</li>
-          <li>Inglês e Espanhol intermediários (leitura técnica e comunicação).</li>
+          <li>Em transição para o cargo de <strong>Gerente de Projetos</strong>.</li>
+          <li>Cursando <strong>Gestão da Tecnologia da Informação</strong> na Fatec.</li>
+          <li>Foco principal: Entrega de projetos, liderança de equipes e qualidade técnica.</li>
+          <li>Inglês e Espanhol intermediários.</li>
         </ul>
       </details>
     </td>
-        <td width="35%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=PedroMissola&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub de Pedro Missola" />
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=PedroMissola&show_icons=true&count_private=true&include_all_commits=true&bg_color=0a0a0a&title_color=f8fafc&text_color=e2e8f0&icon_color=2563eb&border_color=262626" alt="Estatísticas do GitHub de Pedro Missola" />
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PedroMissola&layout=compact&langs_count=10&bg_color=0a0a0a&title_color=f8fafc&text_color=e2e8f0&icon_color=2563eb&border_color=262626" alt="Estatísticas do Wakatime" />
     </td>
   </tr>
 </table>
+
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=PedroMissola&style=flat-square&color=2563eb" alt="Contador de Visitas no Perfil"/>
   
   <br>
 
@@ -60,50 +67,50 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SASS">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
-  <br>
+  
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
-  <br>
+  
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
-  <br>
+  
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest">
 </div>
 
-<h2>My Main Projects</h2>
+<br>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/PedroMissola/grinmorio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMissola&repo=grinmorio&theme=default&show_owner=true" alt="Grinmorio" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMissola&repo=grinmorio&show_owner=true&bg_color=0a0a0a&title_color=f8fafc&text_color=e2e8f0&icon_color=2563eb&border_color=262626" alt="Grinmorio" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/PedroMissola/Weather-analysis-engine">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMissola&repo=Weather-analysis-engine&theme=default&show_owner=true" alt="Weather Analysis Engine" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMissola&repo=Weather-analysis-engine&show_owner=true&bg_color=0a0a0a&title_color=f8fafc&text_color=e2e8f0&icon_color=2563eb&border_color=262626" alt="Weather Analysis Engine" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/PedroMissola/gestao-escolar_api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMissola&repo=gestao-escolar_api&theme=default&show_owner=true" alt="Gestão Escolar API" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMissola&repo=gestao-escolar_api&show_owner=true&bg_color=0a0a0a&title_color=f8fafc&text_color=e2e8f0&icon_color=2563eb&border_color=262626" alt="Gestão Escolar API" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/PedroMissola/analisador_relatorios">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMissola&repo=analisador_relatorios&theme=default&show_owner=true" alt="Analisador de Relatórios" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMissola&repo=analisador_relatorios&show_owner=true&bg_color=0a0a0a&title_color=f8fafc&text_color=e2e8f0&icon_color=2563eb&border_color=262626" alt="Analisador de Relatórios" />
       </a>
     </td>
   </tr>
@@ -111,13 +118,6 @@
 
 <h2>My Recent Activity & Wakatime</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=PedroMissola&theme=default" alt="GitHub Streak" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PedroMissola&layout=compact&langs_count=10&theme=default" alt="Estatísticas do Wakatime" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroMissola&bg_color=0a0a0a&line=2563eb&color=e2e8f0&point=f8fafc&hide_border=true&area=true" alt="Gráfico de Atividade de Contribuição" />
+</div>
